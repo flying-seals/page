@@ -1,0 +1,7 @@
+{
+  "main.js": "render-page.js",
+  "main.js.map": "render-page.js.map",
+  "static/blog-header.svg": "static/blog-header-773005a307d173d1768d76dccdc6cc06.svg",
+  "static/netlify.svg": "static/netlify-7a48f5b58b42247694c9aff5a624b1c5.svg",
+  "static/saas.svg": "static/saas-56a8cde16bde266a747fea336851df9a.svg"
+}
