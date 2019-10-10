@@ -6,6 +6,9 @@ export AZ_RESOURCE_GROUP=group_name
 export AZ_RESOURCE_GROUP_LOCATION=westeurope
 export AZ_SUBSCRIPTION=subscription_id
 
+# Login
+az login
+
 # Create Resource Group
 az group create --name ${AZ_RESOURCE_GROUP} --location ${AZ_RESOURCE_GROUP_LOCATION} --subscription ${AZ_SUBSCRIPTION}
 
